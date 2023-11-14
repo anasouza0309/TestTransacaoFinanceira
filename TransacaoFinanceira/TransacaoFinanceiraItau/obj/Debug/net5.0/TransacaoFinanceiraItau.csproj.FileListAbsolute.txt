@@ -1,0 +1,15 @@
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.exe
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.deps.json
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.runtimeconfig.json
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.runtimeconfig.dev.json
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.dll
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\ref\TransacaoFinanceiraItau.dll
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\bin\Debug\net5.0\TransacaoFinanceiraItau.pdb
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.AssemblyInfo.cs
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.csproj.CoreCompileInputs.cache
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.dll
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\ref\TransacaoFinanceiraItau.dll
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.pdb
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TransacaoFinanceiraItau\obj\Debug\net5.0\TransacaoFinanceiraItau.genruntimeconfig.cache

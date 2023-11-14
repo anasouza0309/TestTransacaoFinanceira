@@ -1,0 +1,5 @@
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TestTranscaoFinanceira\obj\Debug\netcoreapp3.1\TestTranscaoFinanceira.csproj.AssemblyReference.cache
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TestTranscaoFinanceira\obj\Debug\netcoreapp3.1\TestTranscaoFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TestTranscaoFinanceira\obj\Debug\netcoreapp3.1\TestTranscaoFinanceira.AssemblyInfoInputs.cache
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TestTranscaoFinanceira\obj\Debug\netcoreapp3.1\TestTranscaoFinanceira.AssemblyInfo.cs
+C:\Users\Ana Paula\source\repos\Test\TransacaoFinanceira\TestTranscaoFinanceira\obj\Debug\netcoreapp3.1\TestTranscaoFinanceira.csproj.CoreCompileInputs.cache
